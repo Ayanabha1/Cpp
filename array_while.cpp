@@ -9,7 +9,7 @@ int main()
         cout<<"The value of the array at "<<i<<"="<<a[i]<<endl;
         i++;
     }
-
+    //this is a comment
 
 
 }
